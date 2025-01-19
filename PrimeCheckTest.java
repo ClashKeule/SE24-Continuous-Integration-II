@@ -1,3 +1,5 @@
+//Gruppenarbeit von Nuka Falke Dörschner, Gina Blenke und Noah Bowe
+
 import org.junit.Assert;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
